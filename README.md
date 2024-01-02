@@ -5,3 +5,9 @@ Gra tetris w języku lua Love. Gra to standardowa rozgrywka tetris. Posiada: <br
 - Animację przy niszczących się klockach
 
   Przykładową rozgrywkę można sprwadzić na nagraniu: https://www.youtube.com/watch?v=gN2R_x3xdC8&ab_channel=DorianBajorek
+
+  Poruszanie: 
+  - Przesuwanie obiektów lewo/prawo za pomocą strzałem odpowiednio w lewo i w prawo
+  - Obracanie obiektów za pomocą spacji
+  - Zapis stanu gry "S"
+  - Wczyanie zapisanego stanu gry "L"
